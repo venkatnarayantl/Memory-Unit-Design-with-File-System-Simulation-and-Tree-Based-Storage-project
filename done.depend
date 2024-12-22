@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1733039192 source:c:\temp\done\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dirent.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<ctype.h>
+	<windows.h>
+	<sys/statvfs.h>
+
